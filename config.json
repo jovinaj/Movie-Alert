@@ -4,5 +4,5 @@
   "requested_date": "20260729",
   "venue_code": "BWCB",
   "venue_label": "Broadway Cinemas, Coimbatore",
-  "url_template": "https://in.bookmyshow.com/movies/coimbatore/the-odyssey/buytickets/ET00480917/{date}",
+  "url_template": "https://in.bookmyshow.com/movies/coimbatore/the-odyssey/buytickets/ET00480917/{date}"
 }
