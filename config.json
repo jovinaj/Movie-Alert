@@ -2,7 +2,7 @@
   "detector": "venue_date",
   "movie": "The Odyssey (IMAX 2D)",
   "requested_date": "20261218",
-  "venue_code": "MYCA",
+  "venue_code": "EVMK",
   "venue_label": "Broadway Cinemas, Coimbatore",
   "url_template": "https://in.bookmyshow.com/movies/kochi/avengers-doomsday/buytickets/ET00526306/{date}"
 }
