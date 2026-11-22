@@ -1,8 +1,8 @@
 {
   "detector": "venue_date",
   "movie": "The Odyssey (IMAX 2D)",
-  "requested_date": "20260801",
-  "venue_code": "BWCB",
+  "requested_date": "20261218",
+  "venue_code": "EVMK",
   "venue_label": "Broadway Cinemas, Coimbatore",
-  "url_template": "https://in.bookmyshow.com/movies/coimbatore/the-odyssey/buytickets/ET00480917/{date}"
+  "url_template": "https://in.bookmyshow.com/movies/kochi/avengers-doomsday/ET00439706/{date}"
 }
